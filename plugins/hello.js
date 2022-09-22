@@ -14,7 +14,7 @@ conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply
     thumbnail: thumb,
     sourceUrl: sig  }}})
 }
-handler.customPrefix = /^(hallo|hello|alo|allo)$/i
+handler.customPrefix = /^(hallo|hello|alo|allo|hi|Hi|hai|Hai|Hello|helo|hola|Hola|Hello|Hallo)$/i
 handler.command = new RegExp
 
 export default handler
