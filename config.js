@@ -30,11 +30,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_ctzhid'
+global.sig = 'https://instagram.com/al_pakel'
 global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/E1TElUfSJY63Cs9WqNjEEC' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://youtube.com/channel/UCbI74T0AXUI26VC88NyoWdw' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '082171432358' //dana
@@ -49,7 +49,7 @@ global.psaweria = 'https://saweria.com/mrw4h1d'
 global.nomorbot = '6281287142545'
 global.nomorown = '6282171432358'
 global.namebot = 'MGBOTZ-MD'
-global.nameown = 'ALEX PAKEL'
+global.nameown = 'SUBSCRIBE CHANNEL ALEX PAKEL'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 SUBSCRIBE ALEX PAKEL 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '「 SUBSCRIBE ALEX PAKEL 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MGBOTZ-MD-2˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ SUBS ALEXPAKEL '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By ALEX PAKRL`
-global.author = '                「 SUBSCRIBE ALEX PAKEL  あ」'
+global.author = '「 SUBSCRIBE ALEX PAKEL 」'
 
 
 /*============== LOGO ==============*/
@@ -133,7 +133,7 @@ global.flaaa2 = [
 
 /*============== HENTAI ==============*/ 
 //OPTIONS
-global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
+global.optsnsfw = false // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
 
 
@@ -190,7 +190,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'Sticker By Alex'
-global.stickauth = `©MGBOTZ`
+global.stickauth = `SUBSCRIBE JUGA CHANNEL ALEX PAKEL`
 
 global.multiplier = 38 // The higher, The harder levelup
 
