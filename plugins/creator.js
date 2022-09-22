@@ -14,7 +14,8 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • Jangan takut untuk chat owner
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
+• Subscribe https://youtube.com/channel/UCbI74T0AXUI26VC88NyoWdw
+• Join grup https://chat.whatsapp.com/E1TElUfSJY63Cs9WqNjEEC
 • No Telp`
 
 //------------ BIO
