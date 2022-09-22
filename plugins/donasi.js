@@ -10,6 +10,8 @@ let text = `
 │ • *Ovo:* [${global.povo}]
 │ • *Link Aja:* [${global.plinkaja}]
 ❏────
+Bantu ramekan grup ini kawan
+https://chat.whatsapp.com/E1TElUfSJY63Cs9WqNjEEC
 `.trim()
   m.reply(text)
 }
