@@ -55,7 +55,7 @@ conn.reply(m.chat, info, m, { quoted: fkontak },{ contextInfo: { externalAdReply
     conn.sendFile(m.chat, assalamualaikum, '', '', m, true)
     }, 1000)
 }
-handler.customPrefix = /^(assalamualaikum)$/i
+handler.customPrefix = /^(assalamualaikum|Assalamu'alaikum|Assalamualaikum|assalamu'alaikum|)$/i
 handler.command = new RegExp
 
 export default handler
