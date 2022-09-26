@@ -14,24 +14,20 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • Jangan takut untuk chat owner
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Subscribe https://youtube.com/channel/UCbI74T0AXUI26VC88NyoWdw
-• Join grup https://chat.whatsapp.com/E1TElUfSJY63Cs9WqNjEEC
-• No Telp`
+• No Whatsapp https://wa.me/6289635867363`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : MGBOTZ-MD
-${htjava} *✉️ Nama RL* : HAMBA ALLAH
-${htjava} *♂️ Gender* : Boys
+${htjava} *💌 Nama* : Mahir
+${htjava} *♂️ Gender* : Male
 ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 17
-${htjava} *🧮 Kelas* : BELOM TAMAT
+${htjava} *🎨 Umur* : 20
 ${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Indo, Depok, Jawa Tengah
-${htjava} *❤️ Waifu* : -
+${htjava} *🗺️ Tinggal* : Indo, Jepara, Jawa Tengah
+${htjava} *❤️ Waifu* : Zero Two
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
