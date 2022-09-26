@@ -11,11 +11,6 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• *_SUBSCRIBE_*
-  https://youtube.com/channel/UCbI74T0AXUI26VC88NyoWdw
-• *_JOIN GRUP_*
-  https://chat.whatsapp.com/E1TElUfSJY63Cs9WqNjEEC
-• Berbicaralah yang sopan & tidak spam
 • Owner akan blok kamu jika kamu memakai bot
   untuk yang enggak²
 • No Telp atau ke blok`
