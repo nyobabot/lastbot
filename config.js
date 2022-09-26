@@ -30,26 +30,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/al_pakel'
+global.sig = 'https://instagram.com/mhrarrydl'
 global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/E1TElUfSJY63Cs9WqNjEEC' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/1' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCbI74T0AXUI26VC88NyoWdw' // my youtube channel
+global.snh = '_' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '082171432358' //dana
+global.pdana = '089635867363' //dana
 global.povo = '08XXXXXXXXXX' //ovo
 global.pgopay = '08XXXXXXXXXX' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '082171432358' //telkomsel
-global.ppulsa2 = '081287142545' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.ppulsa = '089635867363' //telkomsel
+global.ppulsa2 = '_' // kalau ada kartu lain isi aja
+global.psaweria = '_'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281287142545'
-global.nomorown = '6282171432358'
-global.namebot = 'MGBOTZ-MD'
-global.nameown = 'SUBSCRIBE CHANNEL ALEX PAKEL'
+global.nomorbot = '628576854536'
+global.nomorown = '6289635867363'
+global.namebot = 'Mahir Bot'
+global.nameown = 'Mahir'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,7 +58,7 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282171432358', 'MGBOTZ BY ALEX', true],
+  ['6289635867363', 'Mahir Bot', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
@@ -109,21 +109,21 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '「 SUBSCRIBE ALEX PAKEL 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MGBOTZ-MD-2˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ SUBS ALEXPAKEL '
+global.wm = '「 Mahir Bot 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Mahir Bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Mahir Bot '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ALEX PAKRL`
-global.author = '「 SUBSCRIBE ALEX PAKEL 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Mahir Bot`
+global.author = '「 Mahir 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumb = 'https://static.wikia.nocookie.net/darling-in-the-franxx/images/b/b3/Zero_Two_appearance.jpg/revision/latest?cb=20180807204943' //Main Thumbnail
+global.imagebot = 'https://static.wikia.nocookie.net/darling-in-the-franxx/images/b/b3/Zero_Two_appearance.jpg/revision/latest?cb=20180807204943'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
-global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumbs = ['https://static.wikia.nocookie.net/darling-in-the-franxx/images/b/b3/Zero_Two_appearance.jpg/revision/latest?cb=20180807204943']
+global.fla = 'https://static.wikia.nocookie.net/darling-in-the-franxx/images/b/b3/Zero_Two_appearance.jpg/revision/latest?cb=20180807204943'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Sticker By Alex'
-global.stickauth = `SUBSCRIBE JUGA CHANNEL ALEX PAKEL`
+global.stickpack = 'Sticker By Mahir Bot'
+global.stickauth = `Mahir Bot`
 
 global.multiplier = 38 // The higher, The harder levelup
 
