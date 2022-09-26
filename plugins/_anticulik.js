@@ -5,7 +5,7 @@ handler.all = async function (m, { isBlocked }) {
     if (isBlocked) return
     // ketika ada yang invite/kirim link grup di chat pribadi
     if ((m.mtype === 'groupInviteMessage' || m.text.startsWith('Undangan untuk bergabung') || m.text.startsWith('Invitation to join') || m.text.startsWith('Buka tautan ini')) && !m.isBaileys && !m.isGroup) {
-    let teks = `「 MGBOTZ-MD 」
+    let teks = `「 Mahir Bot 」
 
     ╭━━━━「 SEWA 」
     ┊⫹⫺ Hemat: 5k/grup (1 minggu)
@@ -24,18 +24,18 @@ handler.all = async function (m, { isBlocked }) {
     ╰═┅═━––––––๑
     
     ⫹⫺ PAYMENT:
-    • Pulsa Telkomsel: [082171432358]
-    • Dana: [081287142545]
+    • Pulsa Tri: [089635867363]
+    • Dana: [089635867363]
     • Gopay: [08xxxxxxxxxxx]
     • Ovo: [08xxxxxxxxxxxx]
     • Link Aja: [08xxxxxxxxxx]
     
     Nomor Owner :
-    wa.me/6282127487538
+    wa.me/6289635867363
     
     ▌│█║▌║▌║║▌║▌║█│▌
     
-    #BY MGBOTZ-MD`
+    #BY Mahir Bot`
     this.reply(m.chat, teks, m)
     const data = global.owner.filter(([id, isCreator]) => id && isCreator)
     this.sendContact(m.chat, data.map(([id, name]) => [id, name]), m)
