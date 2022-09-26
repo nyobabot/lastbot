@@ -66,10 +66,10 @@ https://github.com/ImYanXiao
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/_ctzhid",
+    mediaUrl: "https://Instagram.com/mhrarrydl",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/_ctzhid", 
-    title: 'WH-MODS-DEV-MultiDevice',
+    description: "https://Instagram.com/mhrarrydl", 
+    title: 'Mahir Bot',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
